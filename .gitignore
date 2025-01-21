@@ -1,2 +1,4 @@
 myenv/
 .env
+chroma_db/
+faiss_index/
