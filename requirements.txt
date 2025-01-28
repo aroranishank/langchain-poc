@@ -20,3 +20,4 @@ faiss-cpu
 langchain-ollama
 langchain_chroma
 langchain_groq
+bs4
